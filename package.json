@@ -11,7 +11,7 @@
     "ejs": "^3.1.7",
     "express": "^4.19.2",
     "http-errors": "~1.7.3",
-    "morgan": "~1.9.1"
+    "morgan": "^1.10.1"
   },
   "description": "Stripe driven Electron based single page store ready to deploy to Linode.",
   "main": "app.js",
